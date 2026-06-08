@@ -1,0 +1,6 @@
+function mostrarMensagem() {
+    alert(
+        "Bem-vindo ao Agrofort! 🌱\n\n" +
+        "Juntos construímos um agronegócio mais sustentável, tecnológico e produtivo para o Agrinho 2026."
+    );
+}
